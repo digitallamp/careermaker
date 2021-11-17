@@ -1241,13 +1241,13 @@ ul.social-icons{
 .top_bar_icon {
     display: inline-block;
     vertical-align: middle;
-    margin-right: 8px;
+    margin-right: 3px;
 }
 .top_bar_contact_item {
     font-size: 11px;
     height: 51px;
     line-height: 51px;
-    margin-right: 10px;
+    margin-right: 5px;
     padding-right: 10px;
     position: relative;
 }
