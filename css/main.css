@@ -1234,14 +1234,14 @@ ul.social-icons{
 .top_bar {
     width: 100%;
     z-index: 1;
-    height: 51px;
-    line-height: 51px;
+    height: 45px;
+    line-height: 45px;
     position: relative;
 }
 .top_bar_icon {
     display: inline-block;
     vertical-align: middle;
-    margin-right: 3px;
+    margin-right: 2px;
 }
 .top_bar_contact_item {
     font-size: 11px;
