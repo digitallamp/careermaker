@@ -1311,7 +1311,7 @@ ul.social-icons{
 ------------------------*/
 /** SiteBrand(logo) **/
 .site-branding img {
-    max-height: 38px;
+    max-height: 80px;
 }
 .site-branding{
     display: flex;
